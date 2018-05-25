@@ -1,5 +1,7 @@
-# Cyber•Academy
-Creating educational content for blockchain developers
+## Cyber•Academy
+### Educational content for blockchain developers
 
-* organising great meetups, hackathons, conferences and other events
-* live streaming speeches from events and workshops
+Summer 2018 Event Schedule - https://goo.gl/QFV4xB
+
+* offline meetups, hackathons, conferences and other events (Minsk, Kyiv, Moscow)
+* online live streaming from events and workshops (YouTube channel)
