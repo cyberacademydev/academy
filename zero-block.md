@@ -61,7 +61,7 @@ Burn rate $5k. Target before return: 8 month. Need 40k DAI to 2k1 multisig
 - конфы
 - хакатоны
 
-## Развиватие тем
+## Развитие тем
 - 3D printing
 - VR dev
 ...
