@@ -8,7 +8,9 @@
 
 ## Spent
 5 May: 7 BTC per $9300 = $65000
+
 10 June: 7 BTC per $6700 = $47000
+
 Overall: 14 BTC = $112000
 
 ## Анализ ошибок
